@@ -7,9 +7,9 @@
         inkscape:showpageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0"
         inkscape:deskcolor="#d1d1d1" />
     <defs id="SvgjsDefs10989">
-        <linearGradient id="SvgjsLinearGradient10994">
-            <stop id="SvgjsStop10995" stop-color="#ef4136" offset="0" />
-            <stop id="SvgjsStop10996" stop-color="#fbb040" offset="1" />
+        <linearGradient id="SvgjsLinearGradient10994">  
+        <stop id="SvgjsStop10995" offset="0%" stop-color="#6f2da8"/>
+        <stop id="SvgjsStop10996" offset="100%" stop-color="#b666d2"/>
         </linearGradient>
     </defs>
     <g id="SvgjsG10990" featurekey="hmhgWD-0"
